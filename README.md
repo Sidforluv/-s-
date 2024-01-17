@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/BWANDARLOK"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<p align="center" ><a href="https://t.me/apni_mehfill 
 
 </details>
